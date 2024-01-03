@@ -116,7 +116,7 @@
         if (isFastened) {
           gsap.to(bloomPass, {
             duration: 0.2,
-            strength: 0.8,
+            strength: 0.6,
             radius: 0.8,
           });
           gsap.to(accelerateSpeed, {
